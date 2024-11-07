@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../ms_rest_template-main/car/pom.xml" />
+        <option value="$PROJECT_DIR$/../ms_rest_template-main/client/pom.xml" />
+        <option value="$PROJECT_DIR$/../ms_rest_template-main/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../ms_rest_template-main/server_eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/server_eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/client/pom.xml" />
+        <option value="$PROJECT_DIR$/car/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="23 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
